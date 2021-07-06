@@ -1,2 +1,4 @@
-hii this is master f1
+
 this is branch b3
+this is branch 4
+conflict resolved in f1 file 
