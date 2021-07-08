@@ -1,3 +1,5 @@
 print("hello")
-a = 5
+a = 51
 print(a)
+print("day thursday")
+print("code changed")
